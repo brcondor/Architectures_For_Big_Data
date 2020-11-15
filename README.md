@@ -1,6 +1,7 @@
 # Architectures_For_Big_Data
 
 This is the official repository for [Architectures for Big Data - 2020 Class](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2021/architectures-big-data).
+
 There you will find:
 * All the code shared during classes
 * Some additional exercises
@@ -14,4 +15,4 @@ The needed container to try Spark code is [this one](https://github.com/jupyter/
 
 
 ## Contacts
-To get in touch with
+To get in touch with the author, drop a line at the academic address (you can easily find on unimi website).
