@@ -1,5 +1,6 @@
 from dataGenerator import *
 from random import randint
+import numpy as np
 
 class typeGenerator(ABC):
     def __init__(self):
