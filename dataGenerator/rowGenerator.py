@@ -21,7 +21,7 @@ class intGenerator(typeGenerator):
     def generateEl(self,*argList,**args):
         if argList:
             args = argList[0]
-        scale = args.get("min",0)
+        min = args.get("min",0)
         max = args.get("max",1000)
         return randint(min, max)
 
